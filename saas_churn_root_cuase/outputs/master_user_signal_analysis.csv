@@ -1,0 +1,401 @@
+user_id,status,reference_date,lifetime_avg_usage,last_45_day_avg_usage,pct_change,pattern,drop_bucket,has_failed_payment,failed_payment_count,has_unresolved_high_priority_ticket,unresolved_high_priority_ticket_count
+1,churned,2026-05-06,40.12,42.0,4.69,Usage Increase,,0,0,1,1
+2,active,2026-09-15,40.84,37.36,-8.5,Usage Drop,0-10% drop,1,2,0,0
+3,active,2026-09-15,36.1,33.71,-6.61,Usage Drop,0-10% drop,1,2,0,0
+4,churned,2026-07-18,37.18,31.67,-14.82,Usage Drop,10-20% drop,0,0,0,0
+5,active,2026-09-15,30.79,34.38,11.65,Usage Increase,,0,0,0,0
+6,active,2026-09-15,38.78,38.79,0.01,Usage Increase,,0,0,0,0
+7,active,2026-09-15,29.69,16.57,-44.19,Usage Drop,40-50% drop,1,1,1,1
+8,churned,2026-07-10,40.57,44.58,9.89,Usage Increase,,0,0,0,0
+9,active,2026-09-15,,,,No Data,,1,1,0,0
+10,active,2026-09-15,37.88,40.54,7.01,Usage Increase,,1,1,1,1
+11,active,2026-09-15,32.52,32.17,-1.09,Usage Drop,0-10% drop,1,2,0,0
+12,churned,2026-08-03,43.7,49.5,13.27,Usage Increase,,0,0,0,0
+13,active,2026-09-15,37.61,30.0,-20.24,Usage Drop,20-30% drop,0,0,0,0
+14,churned,2026-09-14,28.14,23.0,-18.27,Usage Drop,10-20% drop,0,0,0,0
+15,active,2026-09-15,36.86,32.5,-11.82,Usage Drop,10-20% drop,1,1,0,0
+16,active,2026-09-15,35.09,36.0,2.59,Usage Increase,,1,1,0,0
+17,churned,2026-02-15,32.04,25.0,-21.98,Usage Drop,20-30% drop,1,1,1,1
+18,active,2026-09-15,,,,No Data,,0,0,0,0
+19,active,2026-09-15,32.55,20.75,-36.25,Usage Drop,30-40% drop,0,0,0,0
+20,active,2026-09-15,34.16,37.25,9.05,Usage Increase,,1,2,0,0
+21,active,2026-09-15,36.85,37.31,1.24,Usage Increase,,1,1,0,0
+22,active,2026-09-15,35.68,29.88,-16.26,Usage Drop,10-20% drop,0,0,1,1
+23,churned,2026-08-27,35.73,37.6,5.25,Usage Increase,,0,0,0,0
+24,churned,2026-01-14,35.92,21.83,-39.22,Usage Drop,30-40% drop,1,1,0,0
+25,active,2026-09-15,32.86,27.88,-15.18,Usage Drop,10-20% drop,1,1,0,0
+26,active,2026-09-15,33.13,29.83,-9.94,Usage Drop,0-10% drop,1,2,0,0
+27,active,2026-09-15,36.19,42.88,18.46,Usage Increase,,1,1,0,0
+28,active,2026-09-15,38.24,26.92,-29.62,Usage Drop,20-30% drop,1,1,0,0
+29,churned,2026-09-30,36.12,31.89,-11.71,Usage Drop,10-20% drop,1,1,0,0
+30,active,2026-09-15,35.83,22.8,-36.36,Usage Drop,30-40% drop,0,0,0,0
+31,active,2026-09-15,38.24,40.0,4.62,Usage Increase,,1,1,0,0
+32,active,2026-09-15,34.4,40.7,18.31,Usage Increase,,0,0,0,0
+33,churned,2026-01-29,41.77,27.0,-35.36,Usage Drop,30-40% drop,0,0,0,0
+34,active,2026-09-15,36.76,41.0,11.54,Usage Increase,,0,0,0,0
+35,active,2026-09-15,30.82,36.9,19.73,Usage Increase,,0,0,0,0
+36,active,2026-09-15,,,,No Data,,1,1,0,0
+37,churned,2026-09-21,29.21,27.58,-5.58,Usage Drop,0-10% drop,0,0,0,0
+38,active,2026-09-15,35.04,32.89,-6.13,Usage Drop,0-10% drop,0,0,0,0
+39,active,2026-09-15,38.32,34.89,-8.95,Usage Drop,0-10% drop,1,1,0,0
+40,churned,2026-04-29,33.0,30.29,-8.23,Usage Drop,0-10% drop,0,0,0,0
+41,active,2026-09-15,37.05,37.13,0.2,Usage Increase,,0,0,0,0
+42,churned,2026-07-19,32.42,25.5,-21.35,Usage Drop,20-30% drop,0,0,1,1
+43,active,2026-09-15,36.13,37.9,4.9,Usage Increase,,0,0,0,0
+44,churned,2026-07-17,31.31,29.0,-7.36,Usage Drop,0-10% drop,1,1,1,1
+45,active,2026-09-15,39.33,38.0,-3.39,Usage Drop,0-10% drop,0,0,0,0
+46,churned,2026-06-20,44.17,42.08,-4.73,Usage Drop,0-10% drop,0,0,1,1
+47,active,2026-09-15,36.43,28.0,-23.14,Usage Drop,20-30% drop,1,2,0,0
+48,active,2026-09-15,33.04,34.6,4.73,Usage Increase,,0,0,0,0
+49,churned,2025-09-05,40.95,41.0,0.11,Usage Increase,,1,1,1,1
+50,active,2026-09-15,28.15,28.87,2.55,Usage Increase,,0,0,0,0
+51,active,2026-09-15,,,,No Data,,0,0,0,0
+52,active,2026-09-15,39.0,34.75,-10.9,Usage Drop,10-20% drop,0,0,0,0
+53,churned,2026-05-01,31.07,29.2,-6.01,Usage Drop,0-10% drop,1,1,0,0
+54,active,2026-09-15,36.14,38.71,7.13,Usage Increase,,0,0,0,0
+55,active,2026-09-15,35.95,33.43,-7.01,Usage Drop,0-10% drop,1,1,0,0
+56,churned,2025-11-07,35.71,36.0,0.8,Usage Increase,,0,0,0,0
+57,churned,2026-02-11,33.23,24.67,-25.76,Usage Drop,20-30% drop,0,0,0,0
+58,active,2026-09-15,37.0,40.11,8.41,Usage Increase,,1,1,0,0
+59,churned,2026-02-16,44.58,46.0,3.18,Usage Increase,,1,1,0,0
+60,churned,2026-08-17,36.18,36.54,0.99,Usage Increase,,1,1,0,0
+61,active,2026-09-15,37.51,21.0,-44.01,Usage Drop,40-50% drop,0,0,0,0
+62,active,2026-09-15,35.14,37.64,7.11,Usage Increase,,1,2,0,0
+63,active,2026-09-15,37.93,39.15,3.24,Usage Increase,,0,0,0,0
+64,active,2026-09-15,33.07,38.33,15.92,Usage Increase,,0,0,0,0
+65,churned,2025-10-04,30.76,14.17,-53.95,Usage Drop,Severe (>50%) drop,0,0,1,1
+66,active,2026-09-15,33.35,29.33,-12.03,Usage Drop,10-20% drop,1,1,0,0
+67,active,2026-09-15,37.24,60.67,62.93,Usage Increase,,0,0,0,0
+68,active,2026-09-15,38.29,47.14,23.13,Usage Increase,,0,0,0,0
+69,active,2026-09-15,34.4,32.4,-5.81,Usage Drop,0-10% drop,1,1,0,0
+70,churned,2025-09-05,32.96,34.75,5.42,Usage Increase,,0,0,0,0
+71,active,2026-09-15,39.51,37.88,-4.13,Usage Drop,0-10% drop,0,0,0,0
+72,active,2026-09-15,37.42,27.6,-26.25,Usage Drop,20-30% drop,1,4,0,0
+73,active,2026-09-15,36.29,41.23,13.61,Usage Increase,,0,0,0,0
+74,active,2026-09-15,35.49,46.57,31.24,Usage Increase,,1,1,0,0
+75,active,2026-09-15,35.86,35.75,-0.32,Usage Drop,0-10% drop,1,1,0,0
+76,active,2026-09-15,35.82,35.43,-1.08,Usage Drop,0-10% drop,0,0,0,0
+77,active,2026-09-15,33.37,21.71,-34.92,Usage Drop,30-40% drop,1,1,0,0
+78,active,2026-09-15,38.38,36.77,-4.18,Usage Drop,0-10% drop,1,1,0,0
+79,active,2026-09-15,36.79,34.55,-6.09,Usage Drop,0-10% drop,0,0,0,0
+80,active,2026-09-15,37.49,30.1,-19.71,Usage Drop,10-20% drop,1,2,0,0
+81,active,2026-09-15,32.13,36.13,12.45,Usage Increase,,0,0,0,0
+82,active,2026-09-15,33.7,30.45,-9.64,Usage Drop,0-10% drop,1,1,0,0
+83,active,2026-09-15,39.3,57.88,47.26,Usage Increase,,1,1,0,0
+84,churned,2026-02-14,42.23,62.88,48.88,Usage Increase,,0,0,0,0
+85,active,2026-09-15,39.57,47.46,19.95,Usage Increase,,1,1,0,0
+86,active,2026-09-15,38.59,32.12,-16.76,Usage Drop,10-20% drop,1,1,0,0
+87,active,2026-09-15,35.09,38.57,9.92,Usage Increase,,0,0,0,0
+88,active,2026-09-15,45.57,34.63,-24.03,Usage Drop,20-30% drop,1,2,0,0
+89,churned,2025-10-26,29.5,24.75,-16.1,Usage Drop,10-20% drop,0,0,1,2
+90,active,2026-09-15,42.85,50.83,18.63,Usage Increase,,1,1,0,0
+91,active,2026-09-15,28.85,29.56,2.43,Usage Increase,,0,0,0,0
+92,churned,2026-03-03,28.51,12.4,-56.5,Usage Drop,Severe (>50%) drop,0,0,0,0
+93,active,2026-09-15,36.88,36.1,-2.1,Usage Drop,0-10% drop,0,0,0,0
+94,active,2026-09-15,36.27,41.0,13.04,Usage Increase,,1,4,0,0
+95,active,2026-09-15,38.2,42.36,10.89,Usage Increase,,0,0,0,0
+96,churned,2025-07-14,31.5,33.0,4.76,Usage Increase,,0,0,0,0
+97,active,2026-09-15,37.57,32.11,-14.53,Usage Drop,10-20% drop,1,1,0,0
+98,active,2026-09-15,38.04,26.67,-29.9,Usage Drop,20-30% drop,0,0,0,0
+99,active,2026-09-15,33.96,31.6,-6.95,Usage Drop,0-10% drop,1,1,0,0
+100,active,2026-09-15,35.85,32.79,-8.54,Usage Drop,0-10% drop,1,1,0,0
+101,active,2026-09-15,42.97,44.11,2.65,Usage Increase,,0,0,0,0
+102,churned,2026-02-25,41.3,39.56,-4.22,Usage Drop,0-10% drop,0,0,1,1
+103,active,2026-09-15,31.27,26.33,-15.8,Usage Drop,10-20% drop,1,2,0,0
+104,active,2026-09-15,36.82,45.38,23.24,Usage Increase,,1,1,0,0
+105,churned,2026-06-28,26.48,29.67,12.03,Usage Increase,,0,0,0,0
+106,churned,2025-12-24,36.31,38.67,6.48,Usage Increase,,0,0,1,1
+107,churned,2026-02-27,37.17,34.77,-6.46,Usage Drop,0-10% drop,0,0,0,0
+108,active,2026-09-15,,,,No Data,,0,0,0,0
+109,active,2026-09-15,36.14,37.73,4.38,Usage Increase,,0,0,0,0
+110,active,2026-09-15,33.78,32.46,-3.91,Usage Drop,0-10% drop,0,0,0,0
+111,active,2026-09-15,34.56,37.11,7.38,Usage Increase,,0,0,0,0
+112,active,2026-09-15,39.33,48.89,24.31,Usage Increase,,0,0,0,0
+113,active,2026-09-15,38.66,33.78,-12.62,Usage Drop,10-20% drop,1,1,0,0
+114,active,2026-09-15,,,,No Data,,1,2,0,0
+115,active,2026-09-15,33.51,38.0,13.39,Usage Increase,,1,1,0,0
+116,active,2026-09-15,36.76,42.33,15.16,Usage Increase,,1,1,0,0
+117,churned,2026-09-29,36.09,37.42,3.69,Usage Increase,,0,0,0,0
+118,active,2026-09-15,37.66,29.91,-20.58,Usage Drop,20-30% drop,0,0,0,0
+119,churned,2026-08-06,38.22,32.5,-14.96,Usage Drop,10-20% drop,1,1,0,0
+120,active,2026-09-15,32.0,32.6,1.88,Usage Increase,,0,0,0,0
+121,active,2026-09-15,32.54,32.63,0.26,Usage Increase,,1,1,0,0
+122,active,2026-09-15,31.56,34.11,8.09,Usage Increase,,1,1,0,0
+123,active,2026-09-15,40.83,33.29,-18.48,Usage Drop,10-20% drop,0,0,0,0
+124,active,2026-09-15,38.25,27.71,-27.54,Usage Drop,20-30% drop,0,0,0,0
+125,churned,2026-09-09,31.62,10.0,-68.37,Usage Drop,Severe (>50%) drop,0,0,0,0
+126,active,2026-09-15,31.16,28.54,-8.43,Usage Drop,0-10% drop,0,0,0,0
+127,churned,2026-06-15,43.05,45.0,4.52,Usage Increase,,1,1,0,0
+128,churned,2025-07-28,31.72,36.89,16.29,Usage Increase,,0,0,0,0
+129,active,2026-09-15,37.64,30.75,-18.31,Usage Drop,10-20% drop,1,1,0,0
+130,churned,2026-09-10,33.63,35.0,4.06,Usage Increase,,1,1,0,0
+131,active,2026-09-15,35.06,39.25,11.96,Usage Increase,,1,1,0,0
+132,churned,2025-09-22,26.87,35.0,30.26,Usage Increase,,1,1,1,1
+133,churned,2025-10-08,44.31,58.89,32.91,Usage Increase,,1,1,0,0
+134,active,2026-09-15,,,,No Data,,1,2,0,0
+135,churned,2026-05-17,33.41,26.4,-20.98,Usage Drop,20-30% drop,0,0,0,0
+136,active,2026-09-15,37.44,32.11,-14.24,Usage Drop,10-20% drop,1,2,0,0
+137,churned,2026-03-06,19.0,11.5,-39.47,Usage Drop,30-40% drop,0,0,1,1
+138,active,2026-09-15,34.18,37.5,9.73,Usage Increase,,0,0,0,0
+139,active,2026-09-15,32.27,28.91,-10.41,Usage Drop,10-20% drop,1,2,0,0
+140,active,2026-09-15,34.4,36.25,5.37,Usage Increase,,0,0,0,0
+141,active,2026-09-15,38.17,37.43,-1.95,Usage Drop,0-10% drop,1,1,0,0
+142,active,2026-09-15,,,,No Data,,1,1,0,0
+143,churned,2025-07-08,28.79,26.88,-6.62,Usage Drop,0-10% drop,0,0,1,1
+144,active,2026-09-15,35.98,32.62,-9.35,Usage Drop,0-10% drop,0,0,0,0
+145,active,2026-09-15,34.55,35.85,3.75,Usage Increase,,1,1,0,0
+146,active,2026-09-15,33.27,42.4,27.45,Usage Increase,,0,0,0,0
+147,active,2026-09-15,33.68,25.25,-25.03,Usage Drop,20-30% drop,0,0,0,0
+148,active,2026-09-15,34.76,28.14,-19.04,Usage Drop,10-20% drop,0,0,1,1
+149,churned,2025-09-21,40.9,38.59,-5.65,Usage Drop,0-10% drop,1,1,0,0
+150,active,2026-09-15,28.51,28.73,0.78,Usage Increase,,0,0,1,1
+151,churned,2026-02-05,34.25,37.18,8.56,Usage Increase,,1,1,0,0
+152,active,2026-09-15,35.94,37.88,5.37,Usage Increase,,0,0,0,0
+153,active,2026-09-15,34.5,42.17,22.22,Usage Increase,,0,0,0,0
+154,active,2026-09-15,33.61,34.92,3.88,Usage Increase,,0,0,0,0
+155,churned,2026-08-05,31.93,42.4,32.79,Usage Increase,,0,0,0,0
+156,churned,2026-08-17,35.13,21.5,-38.79,Usage Drop,30-40% drop,1,1,1,1
+157,active,2026-09-15,34.25,38.31,11.83,Usage Increase,,0,0,0,0
+158,active,2026-09-15,,,,No Data,,0,0,0,0
+159,churned,2025-11-28,39.5,40.57,2.71,Usage Increase,,0,0,1,1
+160,churned,2026-08-18,34.43,27.5,-20.14,Usage Drop,20-30% drop,1,3,0,0
+161,active,2026-09-15,34.78,31.2,-10.29,Usage Drop,10-20% drop,0,0,0,0
+162,active,2026-09-15,38.35,37.42,-2.42,Usage Drop,0-10% drop,0,0,0,0
+163,churned,2026-06-29,29.0,32.83,13.22,Usage Increase,,1,1,1,1
+164,churned,2026-06-27,30.43,33.0,8.43,Usage Increase,,1,1,1,2
+165,active,2026-09-15,35.44,38.86,9.65,Usage Increase,,1,1,0,0
+166,active,2026-09-15,34.04,30.86,-9.34,Usage Drop,0-10% drop,0,0,0,0
+167,churned,2026-08-31,38.26,38.19,-0.19,Usage Drop,0-10% drop,1,1,0,0
+168,active,2026-09-15,,,,No Data,,1,3,0,0
+169,active,2026-09-15,37.49,28.38,-24.31,Usage Drop,20-30% drop,1,1,0,0
+170,churned,2026-03-25,23.7,17.43,-26.46,Usage Drop,20-30% drop,0,0,0,0
+171,churned,2026-06-09,41.15,41.85,1.71,Usage Increase,,0,0,0,0
+172,active,2026-09-15,35.85,36.75,2.5,Usage Increase,,0,0,0,0
+173,active,2026-09-15,43.0,38.85,-9.66,Usage Drop,0-10% drop,0,0,0,0
+174,active,2026-09-15,39.19,51.75,32.04,Usage Increase,,0,0,0,0
+175,active,2026-09-15,,,,No Data,,0,0,0,0
+176,churned,2025-10-13,37.67,29.67,-21.24,Usage Drop,20-30% drop,0,0,1,1
+177,churned,2026-09-25,35.44,39.29,10.84,Usage Increase,,0,0,1,1
+178,churned,2025-12-15,39.18,47.13,20.29,Usage Increase,,1,1,0,0
+179,churned,2026-04-13,28.44,45.67,60.55,Usage Increase,,0,0,0,0
+180,churned,2026-02-15,30.4,16.14,-46.9,Usage Drop,40-50% drop,0,0,0,0
+181,active,2026-09-15,36.03,42.88,19.0,Usage Increase,,0,0,0,0
+182,active,2026-09-15,40.84,44.6,9.22,Usage Increase,,1,1,0,0
+183,active,2026-09-15,39.17,33.33,-14.9,Usage Drop,10-20% drop,1,1,0,0
+184,active,2026-09-15,39.6,42.6,7.58,Usage Increase,,0,0,1,1
+185,active,2026-09-15,35.09,36.67,4.5,Usage Increase,,0,0,1,1
+186,churned,2025-09-24,27.86,36.0,29.23,Usage Increase,,0,0,0,0
+187,active,2026-09-15,34.32,32.41,-5.55,Usage Drop,0-10% drop,0,0,0,0
+188,active,2026-09-15,34.26,36.55,6.68,Usage Increase,,1,2,0,0
+189,active,2026-09-15,33.36,33.6,0.72,Usage Increase,,0,0,0,0
+190,churned,2026-07-04,36.63,44.42,21.27,Usage Increase,,0,0,0,0
+191,active,2026-09-15,34.65,36.89,6.46,Usage Increase,,0,0,0,0
+192,active,2026-09-15,36.26,34.92,-3.68,Usage Drop,0-10% drop,0,0,0,0
+193,active,2026-09-15,37.21,23.92,-35.71,Usage Drop,30-40% drop,0,0,0,0
+194,active,2026-09-15,35.75,34.67,-3.03,Usage Drop,0-10% drop,0,0,0,0
+195,active,2026-09-15,34.53,32.07,-7.13,Usage Drop,0-10% drop,0,0,0,0
+196,active,2026-09-15,43.39,53.71,23.78,Usage Increase,,1,2,1,1
+197,churned,2026-06-13,28.94,20.86,-27.94,Usage Drop,20-30% drop,0,0,0,0
+198,active,2026-09-15,33.33,33.78,1.35,Usage Increase,,1,1,0,0
+199,active,2026-09-15,36.26,30.62,-15.57,Usage Drop,10-20% drop,1,2,1,1
+200,churned,2026-08-04,41.5,29.86,-28.06,Usage Drop,20-30% drop,0,0,0,0
+201,churned,2026-07-13,28.07,21.5,-23.41,Usage Drop,20-30% drop,1,1,1,1
+202,churned,2025-06-02,26.6,15.67,-41.1,Usage Drop,40-50% drop,0,0,1,1
+203,active,2026-09-15,34.86,36.6,4.99,Usage Increase,,0,0,0,0
+204,churned,2025-10-24,28.91,16.67,-42.35,Usage Drop,40-50% drop,0,0,0,0
+205,churned,2026-07-15,35.76,56.75,58.69,Usage Increase,,1,1,0,0
+206,active,2026-09-15,33.62,26.0,-22.67,Usage Drop,20-30% drop,0,0,0,0
+207,active,2026-09-15,39.24,36.14,-7.9,Usage Drop,0-10% drop,0,0,0,0
+208,churned,2026-09-10,25.93,30.0,15.7,Usage Increase,,1,1,1,1
+209,churned,2026-04-20,36.69,33.58,-8.46,Usage Drop,0-10% drop,1,1,0,0
+210,churned,2026-06-21,34.49,17.38,-49.62,Usage Drop,40-50% drop,0,0,0,0
+211,active,2026-09-15,34.34,40.64,18.34,Usage Increase,,1,1,1,1
+212,churned,2025-07-28,35.45,36.6,3.23,Usage Increase,,0,0,0,0
+213,churned,2026-06-23,32.41,29.2,-9.89,Usage Drop,0-10% drop,0,0,0,0
+214,churned,2025-12-08,27.94,16.83,-39.75,Usage Drop,30-40% drop,0,0,0,0
+215,active,2026-09-15,33.14,31.6,-4.66,Usage Drop,0-10% drop,1,1,0,0
+216,active,2026-09-15,38.72,32.73,-15.47,Usage Drop,10-20% drop,1,1,0,0
+217,churned,2025-09-04,34.37,36.75,6.93,Usage Increase,,0,0,0,0
+218,active,2026-09-15,30.45,22.2,-27.1,Usage Drop,20-30% drop,0,0,0,0
+219,active,2026-09-15,33.7,39.83,18.19,Usage Increase,,0,0,0,0
+220,churned,2026-05-10,31.63,40.13,26.88,Usage Increase,,0,0,0,0
+221,active,2026-09-15,31.58,37.43,18.53,Usage Increase,,1,2,0,0
+222,active,2026-09-15,35.98,36.0,0.06,Usage Increase,,0,0,1,1
+223,active,2026-09-15,36.85,42.25,14.66,Usage Increase,,1,1,1,1
+224,churned,2025-08-16,29.18,30.13,3.28,Usage Increase,,1,1,1,1
+225,churned,2025-11-20,34.0,37.5,10.29,Usage Increase,,0,0,0,0
+226,active,2026-09-15,31.11,38.44,23.58,Usage Increase,,0,0,0,0
+227,active,2026-09-15,32.0,38.3,19.69,Usage Increase,,0,0,0,0
+228,active,2026-09-15,37.06,41.73,12.6,Usage Increase,,0,0,0,0
+229,churned,2026-09-20,36.96,40.0,8.23,Usage Increase,,0,0,0,0
+230,churned,2025-10-21,45.0,39.14,-13.02,Usage Drop,10-20% drop,1,1,0,0
+231,churned,2026-06-03,34.86,36.0,3.28,Usage Increase,,0,0,0,0
+232,churned,2026-07-06,35.03,31.62,-9.74,Usage Drop,0-10% drop,0,0,0,0
+233,churned,2026-03-08,30.43,22.67,-25.51,Usage Drop,20-30% drop,0,0,0,0
+234,active,2026-09-15,39.87,38.78,-2.75,Usage Drop,0-10% drop,0,0,0,0
+235,active,2026-09-15,35.04,31.92,-8.92,Usage Drop,0-10% drop,0,0,0,0
+236,churned,2026-02-26,31.29,26.13,-16.5,Usage Drop,10-20% drop,0,0,0,0
+237,churned,2026-09-07,32.14,35.67,10.96,Usage Increase,,1,1,0,0
+238,active,2026-09-15,34.31,38.33,11.73,Usage Increase,,0,0,0,0
+239,active,2026-09-15,37.58,35.25,-6.2,Usage Drop,0-10% drop,0,0,0,0
+240,active,2026-09-15,36.15,24.88,-31.2,Usage Drop,30-40% drop,1,2,0,0
+241,active,2026-09-15,33.99,44.78,31.76,Usage Increase,,0,0,0,0
+242,active,2026-09-15,34.17,13.5,-60.5,Usage Drop,Severe (>50%) drop,0,0,0,0
+243,active,2026-09-15,33.28,30.67,-7.86,Usage Drop,0-10% drop,1,1,0,0
+244,active,2026-09-15,32.56,47.88,47.02,Usage Increase,,0,0,0,0
+245,churned,2026-09-20,30.19,31.17,3.23,Usage Increase,,0,0,0,0
+246,active,2026-09-15,30.58,23.17,-24.25,Usage Drop,20-30% drop,1,2,0,0
+247,active,2026-09-15,39.4,49.0,24.37,Usage Increase,,0,0,0,0
+248,churned,2026-09-29,40.9,44.22,8.12,Usage Increase,,0,0,1,1
+249,churned,2026-09-26,26.0,33.25,27.88,Usage Increase,,1,1,0,0
+250,active,2026-09-15,36.36,40.71,11.95,Usage Increase,,0,0,0,0
+251,active,2026-09-15,37.36,31.2,-16.5,Usage Drop,10-20% drop,1,1,0,0
+252,active,2026-09-15,34.0,37.58,10.54,Usage Increase,,0,0,0,0
+253,active,2026-09-15,39.78,38.79,-2.5,Usage Drop,0-10% drop,0,0,0,0
+254,active,2026-09-15,30.3,28.46,-6.08,Usage Drop,0-10% drop,0,0,0,0
+255,churned,2025-09-02,31.93,32.77,2.63,Usage Increase,,1,1,0,0
+256,active,2026-09-15,34.12,25.0,-26.73,Usage Drop,20-30% drop,1,1,0,0
+257,churned,2026-05-17,38.12,35.2,-7.65,Usage Drop,0-10% drop,0,0,0,0
+258,active,2026-09-15,,,,No Data,,0,0,0,0
+259,churned,2025-12-28,37.46,45.88,22.47,Usage Increase,,1,2,0,0
+260,active,2026-09-15,47.85,37.5,-21.62,Usage Drop,20-30% drop,0,0,0,0
+261,churned,2026-09-23,31.9,24.4,-23.51,Usage Drop,20-30% drop,1,1,1,1
+262,churned,2026-03-11,30.3,32.4,6.93,Usage Increase,,0,0,0,0
+263,active,2026-09-15,35.49,32.25,-9.12,Usage Drop,0-10% drop,1,1,0,0
+264,churned,2026-09-27,36.79,34.7,-5.67,Usage Drop,0-10% drop,1,1,0,0
+265,churned,2026-06-11,43.05,42.46,-1.36,Usage Drop,0-10% drop,0,0,0,0
+266,active,2026-09-15,30.73,32.0,4.15,Usage Increase,,0,0,0,0
+267,active,2026-09-15,31.47,32.33,2.73,Usage Increase,,1,1,0,0
+268,churned,2025-07-27,28.14,29.25,3.93,Usage Increase,,1,1,0,0
+269,active,2026-09-15,34.24,37.0,8.07,Usage Increase,,1,1,0,0
+270,churned,2026-09-18,35.25,36.57,3.75,Usage Increase,,0,0,0,0
+271,active,2026-09-15,37.3,34.5,-7.5,Usage Drop,0-10% drop,1,1,0,0
+272,active,2026-09-15,31.04,31.0,-0.13,Usage Drop,0-10% drop,0,0,0,0
+273,active,2026-09-15,,,,No Data,,1,1,0,0
+274,active,2026-09-15,38.15,39.5,3.54,Usage Increase,,1,2,0,0
+275,active,2026-09-15,38.75,43.5,12.26,Usage Increase,,0,0,0,0
+276,active,2026-09-15,34.3,41.83,21.96,Usage Increase,,0,0,1,1
+277,churned,2026-01-09,33.18,13.67,-58.81,Usage Drop,Severe (>50%) drop,1,1,1,1
+278,active,2026-09-15,37.56,45.78,21.87,Usage Increase,,1,1,0,0
+279,active,2026-09-15,30.86,39.63,28.4,Usage Increase,,1,1,0,0
+280,active,2026-09-15,36.97,33.15,-10.33,Usage Drop,10-20% drop,0,0,0,0
+281,active,2026-09-15,33.85,43.11,27.36,Usage Increase,,1,2,0,0
+282,active,2026-09-15,38.88,42.67,9.75,Usage Increase,,0,0,0,0
+283,active,2026-09-15,33.04,22.25,-32.66,Usage Drop,30-40% drop,1,1,0,0
+284,active,2026-09-15,31.71,35.17,10.9,Usage Increase,,0,0,0,0
+285,active,2026-09-15,32.09,40.5,26.19,Usage Increase,,1,1,0,0
+286,active,2026-09-15,37.04,38.5,3.93,Usage Increase,,0,0,0,0
+287,active,2026-09-15,37.2,43.39,16.65,Usage Increase,,0,0,0,0
+288,active,2026-09-15,35.4,25.6,-27.68,Usage Drop,20-30% drop,1,2,0,0
+289,active,2026-09-15,38.5,43.57,13.17,Usage Increase,,0,0,0,0
+290,active,2026-09-15,30.29,20.0,-33.97,Usage Drop,30-40% drop,1,1,0,0
+291,churned,2026-06-22,31.61,29.73,-5.96,Usage Drop,0-10% drop,0,0,0,0
+292,active,2026-09-15,33.35,31.38,-5.92,Usage Drop,0-10% drop,0,0,0,0
+293,active,2026-09-15,34.6,63.0,82.07,Usage Increase,,1,1,0,0
+294,churned,2026-09-18,28.73,22.0,-23.42,Usage Drop,20-30% drop,0,0,1,1
+295,active,2026-09-15,38.27,41.07,7.32,Usage Increase,,0,0,0,0
+296,active,2026-09-15,33.88,35.92,6.01,Usage Increase,,1,1,0,0
+297,active,2026-09-15,32.43,45.88,41.45,Usage Increase,,1,1,0,0
+298,active,2026-09-15,36.84,33.0,-10.43,Usage Drop,10-20% drop,0,0,0,0
+299,churned,2025-12-04,38.07,46.44,22.0,Usage Increase,,0,0,0,0
+300,churned,2025-12-14,32.83,19.5,-40.6,Usage Drop,40-50% drop,0,0,0,0
+301,churned,2026-07-07,23.2,18.67,-19.54,Usage Drop,10-20% drop,0,0,1,1
+302,churned,2026-06-14,45.91,46.5,1.29,Usage Increase,,1,1,0,0
+303,churned,2025-11-10,45.17,47.14,4.37,Usage Increase,,0,0,1,1
+304,active,2026-09-15,,,,No Data,,1,3,0,0
+305,churned,2026-02-25,30.72,11.2,-63.54,Usage Drop,Severe (>50%) drop,0,0,0,0
+306,active,2026-09-15,32.26,35.5,10.03,Usage Increase,,1,2,1,1
+307,active,2026-09-15,30.84,27.5,-10.82,Usage Drop,10-20% drop,0,0,0,0
+308,active,2026-09-15,34.46,30.63,-11.13,Usage Drop,10-20% drop,1,1,0,0
+309,active,2026-09-15,36.75,31.45,-14.41,Usage Drop,10-20% drop,0,0,0,0
+310,active,2026-09-15,37.84,46.57,23.07,Usage Increase,,0,0,1,1
+311,active,2026-09-15,34.32,21.5,-37.35,Usage Drop,30-40% drop,0,0,0,0
+312,churned,2025-11-29,34.07,42.0,23.27,Usage Increase,,0,0,1,1
+313,active,2026-09-15,35.16,32.33,-8.05,Usage Drop,0-10% drop,1,1,0,0
+314,active,2026-09-15,34.16,44.5,30.29,Usage Increase,,1,2,0,0
+315,churned,2026-03-10,30.07,34.17,13.62,Usage Increase,,0,0,0,0
+316,active,2026-09-15,36.42,31.88,-12.49,Usage Drop,10-20% drop,1,2,0,0
+317,active,2026-09-15,29.63,34.82,17.51,Usage Increase,,0,0,0,0
+318,active,2026-09-15,,,,No Data,,1,1,0,0
+319,churned,2026-01-13,32.21,32.22,0.02,Usage Increase,,0,0,0,0
+320,active,2026-09-15,39.33,35.2,-10.49,Usage Drop,10-20% drop,0,0,0,0
+321,active,2026-09-15,39.81,37.89,-4.82,Usage Drop,0-10% drop,0,0,0,0
+322,active,2026-09-15,,,,No Data,,0,0,0,0
+323,active,2026-09-15,31.97,32.36,1.23,Usage Increase,,1,2,0,0
+324,active,2026-09-15,35.04,24.71,-29.47,Usage Drop,20-30% drop,0,0,0,0
+325,active,2026-09-15,28.8,9.0,-68.75,Usage Drop,Severe (>50%) drop,1,2,1,1
+326,active,2026-09-15,,,,No Data,,0,0,0,0
+327,active,2026-09-15,,,,No Data,,1,2,0,0
+328,churned,2025-12-28,,,,No Data,,0,0,0,0
+329,active,2026-09-15,,,,No Data,,1,1,0,0
+330,churned,2025-11-27,,,,No Data,,0,0,0,0
+331,active,2026-09-15,,,,No Data,,0,0,0,0
+332,active,2026-09-15,,,,No Data,,0,0,0,0
+333,churned,2025-08-31,,,,No Data,,0,0,1,1
+334,churned,2025-09-10,,,,No Data,,0,0,1,1
+335,active,2026-09-15,,,,No Data,,0,0,0,0
+336,active,2026-09-15,,,,No Data,,0,0,0,0
+337,active,2026-09-15,,,,No Data,,0,0,0,0
+338,active,2026-09-15,,,,No Data,,0,0,0,0
+339,active,2026-09-15,,,,No Data,,0,0,0,0
+340,churned,2026-09-22,,,,No Data,,0,0,1,1
+341,churned,2025-10-26,,,,No Data,,0,0,1,1
+342,active,2026-09-15,,,,No Data,,0,0,0,0
+343,churned,2026-08-03,,,,No Data,,0,0,1,1
+344,active,2026-09-15,,,,No Data,,0,0,0,0
+345,active,2026-09-15,,,,No Data,,0,0,0,0
+346,active,2026-09-15,,,,No Data,,0,0,1,1
+347,active,2026-09-15,,,,No Data,,0,0,0,0
+348,churned,2026-08-02,,,,No Data,,0,0,0,0
+349,active,2026-09-15,,,,No Data,,0,0,0,0
+350,active,2026-09-15,,,,No Data,,0,0,0,0
+351,active,2026-09-15,,,,No Data,,0,0,0,0
+352,churned,2025-09-03,10.0,,,No Data,,0,0,0,0
+353,active,2026-09-15,,,,No Data,,0,0,0,0
+354,active,2026-09-15,,,,No Data,,0,0,0,0
+355,churned,2026-09-22,,,,No Data,,0,0,0,0
+356,churned,2026-04-21,,,,No Data,,0,0,0,0
+357,active,2026-09-15,,,,No Data,,0,0,0,0
+358,active,2026-09-15,,,,No Data,,0,0,0,0
+359,churned,2026-05-17,,,,No Data,,0,0,1,1
+360,churned,2026-02-13,,,,No Data,,0,0,1,1
+361,active,2026-09-15,,,,No Data,,0,0,1,1
+362,churned,2026-07-24,13.0,,,No Data,,0,0,0,0
+363,active,2026-09-15,,,,No Data,,0,0,0,0
+364,active,2026-09-15,,,,No Data,,0,0,0,0
+365,active,2026-09-15,,,,No Data,,0,0,0,0
+366,churned,2025-10-20,,,,No Data,,0,0,0,0
+367,active,2026-09-15,,,,No Data,,0,0,0,0
+368,active,2026-09-15,,,,No Data,,0,0,1,1
+369,churned,2025-06-20,,,,No Data,,0,0,0,0
+370,active,2026-09-15,,,,No Data,,0,0,0,0
+371,churned,2025-12-30,,,,No Data,,0,0,0,0
+372,active,2026-09-15,,,,No Data,,0,0,0,0
+373,active,2026-09-15,,,,No Data,,0,0,0,0
+374,churned,2025-08-26,,,,No Data,,0,0,0,0
+375,active,2026-09-15,,,,No Data,,0,0,0,0
+376,churned,2026-09-21,,,,No Data,,0,0,0,0
+377,active,2026-09-15,,,,No Data,,0,0,0,0
+378,churned,2026-01-22,,,,No Data,,0,0,0,0
+379,churned,2025-09-22,,,,No Data,,0,0,0,0
+380,active,2026-09-15,,,,No Data,,0,0,0,0
+381,churned,2026-09-14,,,,No Data,,0,0,1,1
+382,churned,2026-02-25,,,,No Data,,0,0,1,1
+383,active,2026-09-15,,,,No Data,,0,0,0,0
+384,active,2026-09-15,,,,No Data,,0,0,0,0
+385,active,2026-09-15,,,,No Data,,0,0,0,0
+386,active,2026-09-15,,,,No Data,,0,0,0,0
+387,active,2026-09-15,,,,No Data,,0,0,0,0
+388,active,2026-09-15,,,,No Data,,0,0,0,0
+389,churned,2025-11-26,,,,No Data,,0,0,0,0
+390,active,2026-09-15,,,,No Data,,0,0,0,0
+391,churned,2025-08-28,,,,No Data,,0,0,0,0
+392,churned,2026-06-11,,,,No Data,,0,0,0,0
+393,active,2026-09-15,,,,No Data,,0,0,0,0
+394,active,2026-09-15,,,,No Data,,0,0,0,0
+395,churned,2025-08-27,,,,No Data,,0,0,0,0
+396,active,2026-09-15,,,,No Data,,0,0,0,0
+397,active,2026-09-15,,,,No Data,,0,0,0,0
+398,churned,2026-03-21,,,,No Data,,0,0,1,1
+399,active,2026-09-15,,,,No Data,,0,0,1,1
+400,active,2026-09-15,,,,No Data,,0,0,0,0

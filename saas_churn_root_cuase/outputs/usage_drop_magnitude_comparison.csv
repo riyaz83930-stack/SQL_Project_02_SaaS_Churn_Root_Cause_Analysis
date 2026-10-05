@@ -1,0 +1,13 @@
+status,drop_bucket,user_count
+active,0-10% drop,43
+active,10-20% drop,27
+active,20-30% drop,17
+active,30-40% drop,8
+active,40-50% drop,2
+active,Severe (>50%) drop,2
+churned,0-10% drop,17
+churned,10-20% drop,8
+churned,20-30% drop,13
+churned,30-40% drop,5
+churned,40-50% drop,5
+churned,Severe (>50%) drop,5

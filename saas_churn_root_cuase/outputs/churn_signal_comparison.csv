@@ -1,0 +1,4 @@
+signal,churned_pct,active_pct,gap_percentage_points,lift
+Usage Drop,39.26,37.36,1.8999999999999986,1.05
+Failed Payment,26.67,38.11,-11.439999999999998,0.7
+Unresolved High-Priority Ticket,29.63,7.55,22.08,3.92
