@@ -1,5 +1,5 @@
 -- : Churn Signal Discovery (core-finding)
--- ═══════════════════════════════════════
+
 
 
 DROP view user_usage_log;
