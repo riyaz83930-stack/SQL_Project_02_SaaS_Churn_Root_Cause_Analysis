@@ -1,8 +1,5 @@
 --  Date-Logic Audit
 
--- 11. Kitne usage_logs aise hain jinki usage_date, us-user ke subscription end_date ke baad ki hai (impossible — cancel hone ke baad usage kaise).
--- 12. Kitne payments aise hain jinka payment_date, user ke signup_date se pehle ka hai.
-
 -- Finding usage after subscription ended
 
 -- Valid subscription -- Invalid usage records
